@@ -1,5 +1,4 @@
 import tweepy
-import time
 from time import sleep
 from cred import *
 
