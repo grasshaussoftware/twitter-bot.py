@@ -1,7 +1,7 @@
 import tweepy
 import time
 from time import sleep
-from credorg import *
+from cred import *
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
